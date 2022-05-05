@@ -1,6 +1,8 @@
 This is f1
 updated in git bash
 updated from github console
+<<<<<<< Updated upstream
 stash2 changes not added to index
+=======
 stash1
-
+>>>>>>> Stashed changes
